@@ -27,3 +27,6 @@ else if (n == 7) {
 else if (n == 8) {
 	printf("eight");
 }
+else if (n == 9) {
+	printf("nine");
+}
